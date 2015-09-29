@@ -1,1 +1,1 @@
-# Learn_J8
+This will have some hands-on on Java 8 APIs.
